@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-kings&label=Profile%20views&color=0e75b6&style=flat" alt="dark-kings" /> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+
 
 - 👨‍💻 All of my projects are available at [https://dark-kings.github.io/Anshul-portfolio/](https://dark-kings.github.io/Anshul-portfolio/)
 
-- 💬 Ask me about **MERN stack, Next Js, Blockchain**
+- 💬 Ask me about **MERN stack,**
 
 - 📫 How to reach me **anshulpant14@gmail.com**
 
